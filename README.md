@@ -1,1 +1,2 @@
-# cmake_project_template
+# LuaOS
+A lua based operating system
